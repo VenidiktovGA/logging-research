@@ -12,6 +12,7 @@
   <modules>
     <module>jdk-logging-tools</module>
     <module>log4j</module>
+    <module>log4j2</module>
   </modules>
 
   <properties>
