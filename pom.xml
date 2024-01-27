@@ -16,6 +16,7 @@
       <module>logback</module>
     <module>jboss-logmanager</module>
       <module>slf4j</module>
+    <module>jboss-logging</module>
   </modules>
 
   <properties>
